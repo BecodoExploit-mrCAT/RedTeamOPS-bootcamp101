@@ -4,7 +4,6 @@ Material do Bootcamp de Red Team - by Victor de Queiroz
 ![2](https://user-images.githubusercontent.com/31081984/124331267-69e92900-db65-11eb-9ebe-fc87d3bed723.png)
 ![apresentação](https://user-images.githubusercontent.com/31081984/137573226-2a33a865-51c8-44d3-892f-2e622a95fa16.jpg)
 ![4](https://user-images.githubusercontent.com/31081984/124331271-6a81bf80-db65-11eb-864b-585a5d3e07fa.png)
-![5](https://user-images.githubusercontent.com/31081984/124331272-6a81bf80-db65-11eb-87ee-41ef2b1e2e67.png)
 ![6](https://user-images.githubusercontent.com/31081984/124331274-6b1a5600-db65-11eb-824c-7b43467b7f97.png)
 ![7](https://user-images.githubusercontent.com/31081984/124331276-6b1a5600-db65-11eb-81ff-b5a94fbb1100.png)
 ![8](https://user-images.githubusercontent.com/31081984/124331278-6bb2ec80-db65-11eb-8ebf-eb6fa134afd0.png)
